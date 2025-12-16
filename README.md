@@ -45,7 +45,8 @@
 
 ---
 
-### :zap: Recent Activity
+### ✨ My Featured Projects
+🚀 Check out the **pinned repositories** below! They showcase my work with **Angular**, **Spring Boot**, and solutions for real-world administrative challenges.
 ---
 
 ### ⚡ Fun Fact
